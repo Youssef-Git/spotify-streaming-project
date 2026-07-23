@@ -1,0 +1,8 @@
+.env
+venv/
+minio/data/
+postgres/data/
+__pycache__/
+*.pyc
+spotify_dbt/target/
+spotify_dbt/dbt_packages/
